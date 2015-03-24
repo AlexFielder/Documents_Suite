@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="63ee6bb787ff46c89b0d0a6411e902e8" Name="Diagram1">
+        <EntityTypeShape EntityType="MDSModel.aspnet_Applications" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.aspnet_Membership" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.aspnet_Profile" Width="1.5" PointX="7.5" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.aspnet_Roles" Width="1.5" PointX="3" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.aspnet_SchemaVersions" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.aspnet_Users" Width="1.5" PointX="5.25" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.CADOfficeProjT" Width="1.5" PointX="5.25" PointY="27.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.ClientStaffMemberMITPSignatory" Width="1.5" PointX="5.25" PointY="24" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.ClientStaffMemberProject" Width="1.5" PointX="10.25" PointY="35.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.ClientStaffMemberReviewer" Width="1.5" PointX="7.5" PointY="43.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.ClientStaffMemberRFIRecipient" Width="1.5" PointX="7.5" PointY="47.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.ClientStaffMemberRFIRespondent" Width="1.5" PointX="7.5" PointY="50.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.ClientStaffMember" Width="1.5" PointX="3" PointY="23" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.ClientStaffMemberValidationAttendee" Width="1.5" PointX="10.5" PointY="32.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.ClientStaffMemberVerificationAttendee" Width="1.5" PointX="7.5" PointY="29.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.CofCDoc" Width="1.5" PointX="7.5" PointY="32.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.CofC" Width="1.5" PointX="5.25" PointY="32.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.Customer" Width="1.5" PointX="0.75" PointY="44.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.DandADoc" Width="1.5" PointX="7.5" PointY="37.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.DandDA" Width="1.5" PointX="5.25" PointY="36.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.DandDC" Width="1.5" PointX="5.25" PointY="41" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.DrawingPrefix" Width="1.5" PointX="8" PointY="59.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.DrawingRegister" Width="1.5" PointX="5.25" PointY="49.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.Drawing" Width="1.5" PointX="10.25" PointY="49.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.Help" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.MatrixSalesOrderNumber" Width="1.5" PointX="5.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.MatrixStaffMemberMITPSignatory" Width="1.5" PointX="10.5" PointY="55" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.MatrixStaffMemberProject" Width="1.5" PointX="5.25" PointY="52" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.MatrixStaffMemberReviewer" Width="1.5" PointX="7.5" PointY="63.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.MatrixStaffMemberRFIRespondent" Width="1.5" PointX="7.5" PointY="69.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.MatrixStaffMember" Width="1.5" PointX="5.25" PointY="19" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.MatrixStaffMemberValidationAttendee" Width="1.5" PointX="7.5" PointY="40.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.MatrixStaffMemberVerificationAttendee" Width="1.5" PointX="10.5" PointY="45.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.MITPDetail" Width="1.5" PointX="8.25" PointY="54.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.MITP" Width="1.5" PointX="6" PointY="55.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.Project" Width="1.5" PointX="3" PointY="45.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.Review" Width="1.5" PointX="5.25" PointY="63" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.RFI" Width="1.5" PointX="5.25" PointY="67" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.RolePermission" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.sysdiagram" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.Task" Width="1.5" PointX="13.25" PointY="46.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.TaskType" Width="1.5" PointX="11" PointY="58.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.TQDetail" Width="1.5" PointX="5.25" PointY="78.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.TransmittalDocReasonsForIssue" Width="1.5" PointX="15.625" PointY="41" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.TransmittalDoc" Width="1.5" PointX="12.5" PointY="40.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MDSModel.Transmittal" Width="1.5" PointX="10.25" PointY="39.75" IsExpanded="true" />
+        <AssociationConnector Association="MDSModel.FK__aspnet_Me__Appli__2DB1C7EE" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.FK__aspnet_Ro__Appli__5006DFF2" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.FK__aspnet_Us__Appli__19AACF41" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.FK__aspnet_Me__UserI__2EA5EC27" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.FK__aspnet_Pr__UserI__44952D46" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.CADOfficeProjTS_Project" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.ClientStaffMemberMITPSignatory_ClientStaffMember" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.ClientStaffMemberMITPSignatory_MITPDetail" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.ClientStaffMemberProject_ClientStaffMember" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.ClientStaffMemberProject_Project" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.ClientStaffMemberReviewer_ClientStaffMember" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.ClientStaffMemberReviewer_Review" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.ClientStaffMemberRFIRecipient_ClientStaffMember" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.ClientStaffMemberRFIRecipient_RFI" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.ClientStaffMemberRFIRespondent_ClientStaffMember" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.ClientStaffMemberRFIRespondent_RFI" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.ClientStaffMember_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.ClientStaffMemberValidationAtt_ClientStaffMember" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.ClientStaffMemberVerificationA_ClientStaffMember" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.Transmittal_ClientStaffMember" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.DandDC_ClientStaffMemberValidationAtt" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.ClientStaffMemberVerificationA_DandDC" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.CofC_CofCDoc" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.CofC_Project" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.Project_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.DandADoc_DandDA" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.DandDA_Project" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.DandDC_Project" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.MatrixStaffMemberValidationAtt_DandDC" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.MatrixStaffMemberVerificationA_DandDC" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.DrawingPrefix_Drawing" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.DrawingRegister_Project" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.Drawing_Project" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.MatrixStaffMemberMITPSignatory_MatrixStaffMember" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.MatrixStaffMemberMITPSignatory_MITPDetail" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.MatrixStaffMemberProject_MatrixStaffMember" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.MatrixStaffMemberProject_Project" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.MatrixStaffMemberReviewer_MatrixStaffMember" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.MatrixStaffMemberReviewer_Review" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.MatrixStaffMemberRFIRespondent_MatrixStaffMember" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.MatrixStaffMemberRFIRespondent_RFI" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.MatrixStaffMemberValidationAtt_MatrixStaffMember" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.MatrixStaffMemberVerificationA_MatrixStaffMember" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.MITPDetail_MITP" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.MITPDetail_Project" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.FK_Tasks_Projects" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.Review_Project" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.RFI_Project" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.TQDetail_Project" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.Transmittal_Project" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.TaskType_Task" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.TransmittalDocs_Reason" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.Transmittal_TransmittalDoc" ManuallyRouted="false" />
+        <AssociationConnector Association="MDSModel.aspnet_UsersInRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
