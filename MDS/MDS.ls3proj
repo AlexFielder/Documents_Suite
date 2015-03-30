@@ -21,7 +21,7 @@
     <ApplicationServerType>IIS</ApplicationServerType>
     <AuthenticationType>Windows</AuthenticationType>
     <ApplicationName>Matrix Documents Suite</ApplicationName>
-    <AssemblyVersion>1.0.18.0</AssemblyVersion>
+    <AssemblyVersion>1.0.21.0</AssemblyVersion>
     <ServiceDefinitionFile>ServiceDefinition.csdef</ServiceDefinitionFile>
     <ServiceConfigurationFile>ServiceConfiguration.cscfg</ServiceConfigurationFile>
     <SqlExpressInstanceName>(LocalDB)\v11.0</SqlExpressInstanceName>
@@ -216,7 +216,7 @@
   </ItemGroup>
   <ItemGroup>
     <PublishParameter Include="MDSData">
-      <Value>Data Source=hotdesk-hp\sqlexpress;Initial Catalog=MDS;User ID=neo;Password=Matrix99</Value>
+      <Value>Data Source=hotdesk-hp;Initial Catalog=MDS;User ID=neo;Password=Matrix99</Value>
     </PublishParameter>
   </ItemGroup>
   <ItemGroup>
